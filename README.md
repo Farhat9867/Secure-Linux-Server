@@ -9,3 +9,4 @@ Security Implemented:
 • Installed Fail2ban
 • Enabled security auditing
 • Network scanning using Nmap
+
